@@ -1,1 +1,9 @@
-/target
+springcore/target
+springcoreadvanced/target
+.metadata/
+
+/productservices
+/Servers
+.classpath
+.project
+/.settings
