@@ -4,6 +4,7 @@ springcoreadvanced/target
 
 /productservices
 /Servers
+
 .classpath
 .project
-/.settings
+.settings
